@@ -1,0 +1,62 @@
+.logo {
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 38px;
+  line-height: 46px;
+  letter-spacing: 0.09em;
+  text-transform: uppercase;
+  color: white;
+}
+.customNav {
+  position: fixed;
+  width: 100%;
+  background-color: #2b2b2b !important;
+  background-size: cover;
+  z-index: 10;
+}
+
+.navbar-nav {
+  margin-left: auto;
+  margin-right: 0 !important;
+}
+.nav-item {
+  margin: 0px 15px;
+}
+.navbar-nav {
+  margin-left: auto;
+  margin-right: 0 !important;
+}
+.nav-item {
+  margin: 0px 15px;
+}
+
+/* Navigation dropdown menu */
+.dropdown-menu {
+  background-color: #2b2b2b !important;
+  background-size: cover;
+}
+.dropdown-item:focus,
+.dropdown-item:hover {
+  color: #16181b;
+  text-decoration: none;
+  background: rgb(15, 15, 15);
+}
+.nav-item .active a {
+  color: #addcff;
+}
+
+/* Navigation links */
+.customNav a {
+  color: white !important;
+}
+
+.customNav a:hover {
+  color: #addcff !important;
+}
+.navCTA {
+  font-size: 15px;
+}
+.heroTitle {
+  padding-top: 100px;
+}
