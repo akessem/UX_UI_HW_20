@@ -59,4 +59,16 @@
 }
 .heroTitle {
   padding-top: 100px;
+  margin-left: 150px;
+}
+
+.problem {
+  margin-left: 150px;
+  margin-top: 100px;
+}
+.projectOverview {
+  margin-top: 100px;
+}
+#timeline {
+  margin-left: 150px;
 }
