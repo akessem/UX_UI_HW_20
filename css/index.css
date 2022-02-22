@@ -83,3 +83,18 @@ p {
 .image {
   margin-left: 150px;
 }
+.research {
+  margin-top: 46px;
+  max-width: 500px;
+}
+h5 {
+  margin-top: 50px;
+}
+.paragraph {
+  padding-top: 50px;
+}
+.background {
+  width: 100%;
+  height: 180px;
+  background-color: #e8edf0;
+}
